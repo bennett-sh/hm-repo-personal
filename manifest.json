@@ -1,11 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "BSh.RepoPersonal",
 	"name": "Personal REPO Changes",
 	"description": "A truly amazing mod",
 	"authors": ["BSh"],
 	"frameworkVersion": "2.15.1",
 	"contentFolders": ["content"],
-	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"]
+	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
+	"updateCheck": "https://github.com/bennett-sh/hm-repo-personal/releases/latest/download/updates.json"
 }
