@@ -1,0 +1,82 @@
+{
+    "f93b99a3-aef6-419f-b303-59470577696d": {
+        "ActorConfiguration": {
+            "PrecisionRecoveryDelay": 0.001,
+            "PrecisionRecoverySpeed": 500.0,
+            "PrecisionShotDuration": 9999.0,
+            "ShotsPerMinute": 1000.0,
+            "RecoilMax": 0.01,
+            "SneakMovingPrecisionModifier": 500.0,
+            "SneakNotMovingPrecisionModifier": 500.0,
+            "StandMovingPrecisionModifier": 500.0,
+            "StandNotMovingPrecisionModifier": 500.0,
+            "ZRecoilDistance": 0.01,
+            "IsPerceivedAsWeapon": false,
+            "IsCheckedWhenFrisked": false,
+            "MagazineConfigs": [
+                "961af8c1-f9dd-4b95-ad92-df8cfdd16528"
+            ]
+        },
+        "PrimaryConfiguration": {
+            "PrecisionRecoveryDelay": 0.001,
+            "PrecisionRecoverySpeed": 500.0,
+            "PrecisionShotDuration": 9999.0,
+            "ShotsPerMinute": 1000.0,
+            "RecoilMax": 0.01,
+            "SneakMovingPrecisionModifier": 500.0,
+            "SneakNotMovingPrecisionModifier": 500.0,
+            "StandMovingPrecisionModifier": 500.0,
+            "StandNotMovingPrecisionModifier": 500.0,
+            "ZRecoilDistance": 0.01,
+            "IsPerceivedAsWeapon": false,
+            "IsCheckedWhenFrisked": false,
+            "MagazineConfigs": [
+                "961af8c1-f9dd-4b95-ad92-df8cfdd16528"
+            ]
+        },
+        "SecondaryConfiguration": {
+            "PrecisionRecoveryDelay": 0.001,
+            "PrecisionRecoverySpeed": 500.0,
+            "PrecisionShotDuration": 9999.0,
+            "ShotsPerMinute": 1000.0,
+            "RecoilMax": 0.01,
+            "SneakMovingPrecisionModifier": 500.0,
+            "SneakNotMovingPrecisionModifier": 500.0,
+            "StandMovingPrecisionModifier": 500.0,
+            "StandNotMovingPrecisionModifier": 500.0,
+            "ZRecoilDistance": 0.01,
+            "IsPerceivedAsWeapon": false,
+            "IsCheckedWhenFrisked": false,
+            "MagazineConfigs": [
+                "961af8c1-f9dd-4b95-ad92-df8cfdd16528"
+            ]
+        }
+    },
+    "961af8c1-f9dd-4b95-ad92-df8cfdd16528": {
+        "_type": "Magazine Config",
+        "ID_": "961af8c1-f9dd-4b95-ad92-df8cfdd16528",
+        "AmmoConfig": "26a811a6-7c3b-4be3-a4ef-ea6be9461085",
+        "MagazineIndex": 0.0,
+        "MagazineSize": 8.0,
+        "Tags": [
+            "All",
+            "wallpenetratingmag"
+        ]
+    },
+    "26a811a6-7c3b-4be3-a4ef-ea6be9461085": {
+        "_type": "Ammo Config",
+        "ID_": "26a811a6-7c3b-4be3-a4ef-ea6be9461085",
+        "AmmoImpactEffect": "50788343960005423",
+        "AmmoInFlightEffect": "18446744073709551615",
+        "Behaviours": [
+            "565885d4-1b37-4767-85a4-d83b2fd41bbc"
+        ],
+        "GravityOverride": 5.0,
+        "ImpactEffects": [
+            "eIE_All"
+        ],
+        "Name": "Penetrating Pistol Bullets",
+        "ScopeType": 0.0,
+        "UIKey": "titaniumcomposite"
+    }
+}
