@@ -6,7 +6,14 @@
 	"description": "A truly amazing mod",
 	"authors": ["BSh"],
 	"frameworkVersion": "2.15.1",
-	"contentFolders": ["content"],
 	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
-	"updateCheck": "https://github.com/bennett-sh/hm-repo-personal/releases/latest/download/updates.json"
+	"contentFolders": ["./content"],
+	"updateCheck": "https://github.com/bennett-sh/hm-repo-personal/releases/latest/download/updates.json",
+	"options": [
+		{
+			"type": "checkbox",
+			"name": "Not perceived as weapon",
+			"contentFolders": ["./options/not-perceived"]
+		}
+	]
 }

@@ -1,0 +1,365 @@
+{
+  "15b0f824-b18e-49f1-8636-fc3e07a142be": {
+    "_type": "Ammo Config",
+    "AmmoImpactEffect": "50788343960005423",
+    "AmmoInFlightEffect": "18446744073709551615",
+    "Behaviours": [
+      "565885d4-1b37-4767-85a4-d83b2fd41bbc"
+    ],
+    "GravityOverride": 0.0,
+    "ImpactEffects": [
+      "eIE_All"
+    ],
+    "Name": "Penetrating BSh Bullets",
+    "ScopeType": 0.0,
+    "UIKey": "titaniumcomposite",
+    "ID_": "15b0f824-b18e-49f1-8636-fc3e07a142be"
+  },
+  "e6a81ff0-c167-427d-ae4c-b72449c7ac1c": {
+    "_type": "Magazine Config",
+    "AmmoConfig": "15b0f824-b18e-49f1-8636-fc3e07a142be",
+    "MagazineIndex": 0.0,
+    "MagazineSize": 500.0,
+    "Tags": [
+      "All",
+      "wallpenetratingmag"
+    ],
+    "ID_": "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+  },
+  "b2d514ba-86d6-456a-be10-7592a30dcae1": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "26b5496d-9a8c-4059-9d69-d8712078a33c": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "f93b99a3-aef6-419f-b303-59470577696d": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "b0f87b4e-a41c-4771-8c74-f56574129679": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "563e5651-3024-4dc8-9063-93030a670ca3": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "214004ec-5c86-4c26-8403-9e83a9bcdd24": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "7373fafa-7adb-4c14-ac02-225895f9eb7f": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  },
+  "907e0277-7806-42a4-b4b2-338cf8dd9391": {
+    "ActorConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "PrimaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "SecondaryConfiguration": {
+      "PrecisionRecoveryDelay": 0.001,
+      "PrecisionRecoverySpeed": 500.0,
+      "PrecisionShotDuration": 0.001,
+      "ShotsPerMinute": 1000.0,
+      "RecoilMax": 0.001,
+      "ZRecoilDistance": 0.01,
+      "MagazineConfigs": [
+        "e6a81ff0-c167-427d-ae4c-b72449c7ac1c"
+      ],
+      "AllowPrecisionShot": true,
+      "AllowPrecisionTimeSlowdown": true
+    },
+    "IsCheckedWhenFrisked": false
+  }
+}
